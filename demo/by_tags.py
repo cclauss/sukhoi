@@ -49,9 +49,4 @@ if __name__ == '__main__':
     tags = TagMiner(URL)
     core.gear.mainloop()
 
-    print tags
-
-
-
-
-
+    print(tags)
